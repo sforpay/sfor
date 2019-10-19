@@ -1,0 +1,6 @@
+usr/local/bin/sfor-qt usr/bin
+share/pixmaps/sfor32.xpm usr/share/pixmaps
+share/pixmaps/sfor16.xpm usr/share/pixmaps
+share/pixmaps/sfor128.png usr/share/pixmaps
+debian/sfor-qt.desktop usr/share/applications
+debian/sfor-qt.protocol usr/share/kde4/services/

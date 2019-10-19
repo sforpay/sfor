@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Sfor Core
+Comment=Sfor P2P Cryptocurrency
+Comment[de]=Verbinde mit dem Sfor peer-to-peer Netzwerk
+Comment[fr]=Sfor, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Sfor, eşten eşe kriptografik sanal para birimi
+Exec=sfor-qt %u
+Terminal=false
+Type=Application
+Icon=sfor128
+MimeType=x-scheme-handler/sfor;
+Categories=Office;Finance;

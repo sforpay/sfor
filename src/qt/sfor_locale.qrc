@@ -1,0 +1,25 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="ar">locale/sfor_ar.qm</file>
+        <file alias="bg">locale/sfor_bg.qm</file>
+        <file alias="de">locale/sfor_de.qm</file>
+        <file alias="en">locale/sfor_en.qm</file>
+        <file alias="es">locale/sfor_es.qm</file>
+        <file alias="fi">locale/sfor_fi.qm</file>
+        <file alias="fr">locale/sfor_fr.qm</file>
+        <file alias="it">locale/sfor_it.qm</file>
+        <file alias="ja">locale/sfor_ja.qm</file>
+        <file alias="ko">locale/sfor_ko.qm</file>
+        <file alias="nl">locale/sfor_nl.qm</file>
+        <file alias="pl">locale/sfor_pl.qm</file>
+        <file alias="pt">locale/sfor_pt.qm</file>
+        <file alias="ru">locale/sfor_ru.qm</file>
+        <file alias="sk">locale/sfor_sk.qm</file>
+        <file alias="sv">locale/sfor_sv.qm</file>
+        <file alias="th">locale/sfor_th.qm</file>
+        <file alias="tr">locale/sfor_tr.qm</file>
+        <file alias="vi">locale/sfor_vi.qm</file>
+        <file alias="zh_CN">locale/sfor_zh_CN.qm</file>
+        <file alias="zh_TW">locale/sfor_zh_TW.qm</file>
+    </qresource>
+</RCC>

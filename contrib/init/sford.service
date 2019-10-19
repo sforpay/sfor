@@ -1,0 +1,22 @@
+[Unit]
+Description=Sfor's distributed currency daemon
+After=network.target
+
+[Service]
+User=sforcore
+Group=sforcore
+
+Type=forking
+PIDFile=/var/lib/sford/sford.pid
+ExecStart=/usr/bin/sford -daemon -pid=/var/lib/sford/sford.pid \
+-conf=/etc/sforcore/sfor.conf -datadir=/var/lib/sford -disablewallet
+
+Restart=always
+PrivateTmp=true
+TimeoutStopSec=60s
+TimeoutStartSec=2s
+StartLimitInterval=120s
+StartLimitBurst=5
+
+[Install]
+WantedBy=multi-user.target
