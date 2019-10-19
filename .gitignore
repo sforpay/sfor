@@ -83,6 +83,7 @@ libconftest.dylib*
 Makefile
 sfor-qt
 Sfor-Qt.app
+!/depends/Makefile
 
 # Unit-tests
 Makefile.test
